@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### 自律者自由
+### 自律者自由 👋
 
 <!--
 **yungyu16/yungyu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
