@@ -1,6 +1,15 @@
-### 自律者自由 👋
+<p align="center">
+ <h2>自律者自由 👋</h2>
+</p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yungyu16&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <a href="https://github.com/getActivity">
+    <img src="https://github-readme-stats.vercel.app/api?username=yungyu16&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true" />
+  </a>
+</p>
+
+
 
 <!--
 **yungyu16/yungyu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
