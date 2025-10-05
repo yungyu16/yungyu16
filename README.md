@@ -1,7 +1,7 @@
 ## 👤 羊羽 | Yungyu 👋
 
 - ⚡ Java / Golang.
-- ✍️ <a href="https://blog.yungyu.tech/" target="_blank" rel="noopener noreferrer">Blogger</a>
+- ✍️ [Blogger](https://blog.yungyu.tech/)
 
 <p align="center">
   <a href="https://github.com/yungyu16">
