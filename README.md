@@ -1,13 +1,13 @@
 你好，我是 羊羽(Yungyu) 👋，一枚互联网IT民工。
 
 这是我的技术博客✍️[Blogger](https://blog.yungyu.tech/)，我会不定期的更新。
-<p align="center">
+<p>
   <a href="https://github.com/yungyu16">
     <img src="https://github-readme-stats.vercel.app/api?username=yungyu16&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true" />
   </a>
 </p>
 
-<p align="center"><b>自律者自由 </b>👋</p>
+<p><b>自律者自由 </b>👋</p>
 
 ## 方向&兴趣
 
