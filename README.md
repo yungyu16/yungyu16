@@ -12,7 +12,7 @@
 
 ## 技术分享
 
-1. 技术演讲《[蓝绿发布演进和落地](https://www.bilibili.com/video/BV1BC4y1V78c/)》
+1. 公开演讲《[蓝绿发布演进和落地](https://www.bilibili.com/video/BV1BC4y1V78c/)》
 2. [从IDE到Terminal：适合后端宝宝体质的Claude Code工作流](https://mp.weixin.qq.com/s/x9wUAM6QI1Ogv2B0biawbg)
 2. [同城双活：交易链路的稳定性与可靠性探索](https://mp.weixin.qq.com/s/Psro-BTDXg4k_ILYj-yGMg)
 3. [0基础带你精通Java对象序列化--以Hessian为例](https://mp.weixin.qq.com/s/gPJgrzyJCdok5x7F0Ls12A)
