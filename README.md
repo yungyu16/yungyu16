@@ -13,10 +13,11 @@
 ## 技术分享
 
 1. 公开演讲《[蓝绿发布演进和落地](https://www.bilibili.com/video/BV1BC4y1V78c/)》
-2. [从IDE到Terminal：适合后端宝宝体质的Claude Code工作流](https://mp.weixin.qq.com/s/x9wUAM6QI1Ogv2B0biawbg)
-2. [同城双活：交易链路的稳定性与可靠性探索](https://mp.weixin.qq.com/s/Psro-BTDXg4k_ILYj-yGMg)
-3. [0基础带你精通Java对象序列化--以Hessian为例](https://mp.weixin.qq.com/s/gPJgrzyJCdok5x7F0Ls12A)
-4. [给Javaer看的大模型开发指南](https://mp.weixin.qq.com/s/XSZ4a0QpzyGVme3lsUogrw)
-5. [浅析Java类隔离规避依赖冲突的实现原理](https://mp.weixin.qq.com/s/rjVygtKeJl2n23R0cSTv0g)
-6. [浅析JVM invokedynamic指令和Java Lambda语法](https://mp.weixin.qq.com/s/TFjG78agBAyzJHS-kQEamA)
-7. [JVM STW 和 Dubbo 线程池耗尽的相关性](https://mp.weixin.qq.com/s/hxY-KTpwqyfSl1Mv9C-OAA)
+2. [RAG 核心概念与原理：Chunking、Embedding、相似度、HNSW 与多路召回](https://mp.weixin.qq.com/s/gfFlUUNbKZ23G7NgWHU3YQ)
+3. [从IDE到Terminal：适合后端宝宝体质的Claude Code工作流](https://mp.weixin.qq.com/s/x9wUAM6QI1Ogv2B0biawbg)
+4. [同城双活：交易链路的稳定性与可靠性探索](https://mp.weixin.qq.com/s/Psro-BTDXg4k_ILYj-yGMg)
+5. [0基础带你精通Java对象序列化--以Hessian为例](https://mp.weixin.qq.com/s/gPJgrzyJCdok5x7F0Ls12A)
+6. [给Javaer看的大模型开发指南](https://mp.weixin.qq.com/s/XSZ4a0QpzyGVme3lsUogrw)
+7. [浅析Java类隔离规避依赖冲突的实现原理](https://mp.weixin.qq.com/s/rjVygtKeJl2n23R0cSTv0g)
+8. [浅析JVM invokedynamic指令和Java Lambda语法](https://mp.weixin.qq.com/s/TFjG78agBAyzJHS-kQEamA)
+9. [JVM STW 和 Dubbo 线程池耗尽的相关性](https://mp.weixin.qq.com/s/hxY-KTpwqyfSl1Mv9C-OAA)
